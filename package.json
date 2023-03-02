@@ -1,5 +1,5 @@
 {
-  "name": "@BDXCognitive/Quantiphi-dialogflow-fulfillment-builder",
+  "name": "@BDXCognitive/quantiphi-dialogflow-fulfillment-builder",
 	"repository": "git://github.com/BDXCognitive/Quantiphi-dialogflow-fulfillment-builder.git",
   "version": "1.0.0",
   "description": "The Dialogflow Fulfillment Builder helps you to form the responses with ease in order to connect your Dialogflow agent with different platforms. It supports fulfillment responses for multiple platforms like Text, Google Assistant, Telephony and Facebook Messenger.",
